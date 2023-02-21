@@ -5,7 +5,7 @@
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;**About Me**
 
 💡 &nbsp;I have been into tech for as long as I can remember, but I only started pursuing it as a career since Bachelor's.\
 🎓 &nbsp;I'm currently studying for an MSc in Computing and IT Management at Cardiff University.\
@@ -17,7 +17,7 @@
 
 ## <picture> <img align="right" src="./assets/working.gif" width = 270px></picture>
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp;**Tech Stack**
 
 ![Python](https://img.shields.io/badge/Python-05122A.svg?style=for-the-badge&logo=python&logoColor=3776AB)
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20-05122A.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -55,7 +55,7 @@
 
 ---
 
-### ⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;**GitHub Analytics**
 
 <p align="center">
 <a href="https://github.com/selmantabet">
@@ -66,7 +66,7 @@
 
 ---
 
-### 🤝🏻 &nbsp;Connect
+### 🤝🏻 &nbsp;**Connect**
 
 <p align="center">
 <a href="https://selman.io"><img src="https://img.shields.io/badge/-selman.io-3423A6?style=for-the-badge&logo=squarespace&logoColor=white"/></a>
