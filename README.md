@@ -15,7 +15,7 @@
 ✉️ &nbsp;You can always reach out to me via my [contact](https://selman.io/contact) page.\
 📄 &nbsp;You may also view my [résumé](https://www.selman.io/s/Selman-Tabet-Resume.pdf) for more details.
 
----
+## <picture> <img align="right" src="./assets/working.gif" width = 270px></picture>
 
 ### 🛠 &nbsp;Tech Stack
 
