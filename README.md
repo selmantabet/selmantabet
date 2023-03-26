@@ -11,7 +11,7 @@
 🎓 &nbsp;I'm currently studying for an MSc in Computing and IT Management at Cardiff University.\
 🎓 &nbsp;I have also completed a BSc in Computer Engineering at Hamad Bin Khalifa University.\
 🌱 &nbsp;I'm on track for learning more about Machine Learning and Distributed Systems.\
-❤️ &nbsp;In my free time, I listen to [music](https://open.spotify.com/user/31tf43scbxutobzplc65ua7yma2y), explore and collect [fragrances](https://www.fragrantica.com/member/1307897), play [video games](https://steamcommunity.com/id/SelmanTabet/) and do [media production](https://www.youtube.com/watch?v=fT33nk5wxj0).\
+❤️ &nbsp;In my free time, I listen to [music](https://www.last.fm/user/selmantabet), explore and collect [fragrances](https://www.fragrantica.com/member/1307897), play [video games](https://steamcommunity.com/id/SelmanTabet/) and do [media production](https://www.youtube.com/watch?v=fT33nk5wxj0).\
 ✉️ &nbsp;You can always reach out to me via my [contact](https://selman.io/contact) page.\
 📄 &nbsp;You may also view my [résumé](https://www.selman.io/s/Selman-Tabet-Resume.pdf) for more details.
 
