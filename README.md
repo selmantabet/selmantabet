@@ -13,7 +13,7 @@
 🌱 &nbsp;I'm on track for learning more about Machine Learning and Distributed Systems.\
 ❤️ &nbsp;In my free time, I listen to [music](https://www.last.fm/user/selmantabet), explore and collect [fragrances](https://www.fragrantica.com/member/1307897), play [video games](https://steamcommunity.com/id/SelmanTabet/) and do [media production](https://www.youtube.com/watch?v=fT33nk5wxj0).\
 ✉️ &nbsp;You can always reach out to me via my [contact](https://selman.io/contact) page.\
-📄 &nbsp;You may also view my [résumé](https://www.selman.io/s/Selman-Tabet-Resume.pdf) for more details.
+📄 &nbsp;You may also view my [résumé](https://selman.squarespace.com/s/Selman-Tabet-Resume-One-Pager.pdf) for more details.
 
 ## <picture> <img align="right" src="./assets/working.gif" width = 270px></picture>
 
