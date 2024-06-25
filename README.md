@@ -23,6 +23,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript%20-05122A.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![C](https://img.shields.io/badge/-C-05122A?style=for-the-badge&logo=C&logoColor=A8B9CC)&nbsp;
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
+![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter&logoColor=02569B)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=4169E1)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
