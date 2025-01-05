@@ -8,10 +8,10 @@
 ### 👨🏻‍💻 &nbsp;**About Me**
 
 💡 &nbsp;I have been into tech for as long as I can remember, but I only started pursuing it as a career since Bachelor's.\
-🎓 &nbsp;I'm currently studying for an MSc in Computing and IT Management at Cardiff University.\
-🎓 &nbsp;I have also completed a BSc in Computer Engineering at Hamad Bin Khalifa University.\
-🌱 &nbsp;I'm on track for learning more about Machine Learning and Distributed Systems.\
-❤️ &nbsp;In my free time, I listen to [music](https://www.last.fm/user/selmantabet), explore and collect [fragrances](https://www.fragrantica.com/member/1307897), play [video games](https://steamcommunity.com/id/SelmanTabet/) and do [media production](https://www.youtube.com/watch?v=fT33nk5wxj0).\
+🌱 &nbsp;I'm currently looking for full-time opportunities in the tech space.\
+🎓 &nbsp;I have completed an MSc in Computing and IT Management at Cardiff University, UK.\
+🎓 &nbsp;I have also completed a BSc in Computer Engineering at Hamad Bin Khalifa University, Qatar.\
+❤️ &nbsp;In my free time, I listen to [music](https://www.last.fm/user/selmantabet), explore and collect [fragrances](https://www.fragrantica.com/member/1307897), play [video games](https://steamcommunity.com/id/SelmanTabet/) and occasionally do [media production](https://www.youtube.com/watch?v=fT33nk5wxj0).\
 ✉️ &nbsp;You can always reach out to me via my [contact](https://selman.io/contact) page.\
 📄 &nbsp;You may also view my [résumé](https://selman.squarespace.com/s/Selman-Tabet-Resume-One-Pager.pdf) for more details.
 
@@ -25,6 +25,9 @@
 ![C++](https://img.shields.io/badge/-C++-05122A?style=for-the-badge&logo=C%2B%2B&logoColor=00599C)&nbsp;
 ![Dart](https://img.shields.io/badge/-Dart-05122A?style=for-the-badge&logo=dart&logoColor=0175C2)&nbsp;
 ![Flutter](https://img.shields.io/badge/-Flutter-05122A?style=for-the-badge&logo=flutter&logoColor=02569B)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=for-the-badge&logo=tensorflow&logoColor=FF6F00)&nbsp;
+![Keras](https://img.shields.io/badge/-Keras-05122A?style=for-the-badge&logo=keras&logoColor=D00000)&nbsp;
+![PyTorch](https://img.shields.io/badge/-PyTorch-05122A?style=for-the-badge&logo=PyTorch&logoColor=EE4C2C)&nbsp;
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=for-the-badge&logo=node.js&logoColor=339933)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=for-the-badge&logo=postgresql&logoColor=4169E1)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=for-the-badge&logo=mysql&logoColor=4479A1)&nbsp;
@@ -47,6 +50,7 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-05122A?style=for-the-badge&logo=latex&logoColor=008080)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-05122A?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)&nbsp;
+![Jupyter](https://img.shields.io/badge/-Jupyter-05122A?style=for-the-badge&logo=jupyter&logoColor=F37626)&nbsp;
 ![Photoshop](https://img.shields.io/badge/-Photoshop-05122A?style=for-the-badge&logo=adobe-photoshop&logoColor=31A8FF)&nbsp;
 ![Premiere Pro](https://img.shields.io/badge/-Premiere%20Pro-05122A?style=for-the-badge&logo=adobe-premiere-pro&logoColor=9999FF)
 ![Audacity](https://img.shields.io/badge/-Audacity-05122A?style=for-the-badge&logo=audacity&logoColor=0000CC)&nbsp;
