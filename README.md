@@ -7,7 +7,7 @@
 
 ### 👨🏻‍💻 &nbsp;**About Me**
 
-💡 &nbsp;I have been into tech for as long as I can remember, but I only started pursuing it as a career since Bachelor's.\
+💡 &nbsp;I have been into tech for as long as I can remember, but I only started pursuing it as a career since my undergraduate studies.\
 🌱 &nbsp;I'm currently looking for full-time opportunities in the tech space.\
 🎓 &nbsp;I have completed an MSc in Computing and IT Management at Cardiff University, UK.\
 🎓 &nbsp;I have also completed a BSc in Computer Engineering at Hamad Bin Khalifa University, Qatar.\
