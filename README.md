@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;**About Me**
 
 💡 &nbsp;I have been into tech for as long as I can remember, but I only started pursuing it as a career since my undergraduate studies.\
-🌱 &nbsp;I'm currently looking for full-time opportunities in the tech space.\
+🌱 &nbsp;I'm currently delving deep into Mobile Development with Flutter. \
 🎓 &nbsp;I have completed an MSc in Computing and IT Management at Cardiff University, UK.\
 🎓 &nbsp;I have also completed a BSc in Computer Engineering at Hamad Bin Khalifa University, Qatar.\
 ❤️ &nbsp;In my free time, I listen to [music](https://www.last.fm/user/selmantabet), explore and collect [fragrances](https://www.fragrantica.com/member/1307897), play [video games](https://steamcommunity.com/id/SelmanTabet/) and occasionally do [media production](https://www.youtube.com/watch?v=fT33nk5wxj0).\
